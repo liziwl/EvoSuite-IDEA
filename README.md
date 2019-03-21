@@ -4,7 +4,7 @@
 1. Create a new Maven project
 2. Create a peice of java code under `src/main/java`, e.g, `codeToTest.java`
 3. Create a junit script under `src/test/java`, e.g, `codeToTestTest.java`
-4. Modify the your `pom.xml` like [pom.xml](https://github.com/Krystal97/EvoSuite-IDEA/blob/master/ideaj.example/pom.xml).
+4. Modify the your `pom.xml` like [pom.xml](./ideaj.example/pom.xml).
 5. Dowload all dependencies
 
 ### To use `Jacoco` in IDEA
